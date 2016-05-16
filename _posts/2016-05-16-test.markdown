@@ -4,3 +4,7 @@ title: test
 layout: post
 ---
 first post
+
+<img src="https://farm8.staticflickr.com/7706/26443212533_84397f842b_b.jpg" style="width: 200px;"/>
+
+Test test test
