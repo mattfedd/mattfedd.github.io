@@ -5,6 +5,6 @@ layout: post
 ---
 first post
 
-<img src="https://farm8.staticflickr.com/7706/26443212533_84397f842b_b.jpg" style="width: 200px;"/>
+<a href="https://farm8.staticflickr.com/7706/26443212533_84397f842b_b.jpg"><img src="https://farm8.staticflickr.com/7706/26443212533_84397f842b_b.jpg" style="width: 500px;"/></a>
 
 Test test test
