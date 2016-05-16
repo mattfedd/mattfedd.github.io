@@ -8,3 +8,4 @@ tagline: A log of everyday life
 description: My awesome new site
 paginate: 5
 paginate_path: "/blog/page:num/"
+version: "1.0.0"
