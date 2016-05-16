@@ -1,6 +1,7 @@
 excerpt_separator: ""
 pygments: true
 markdown: kramdown
+highlighter: rouge
 url: http://mattfedd.github.io
 title: mattfedd
 tagline: A log of everyday life
