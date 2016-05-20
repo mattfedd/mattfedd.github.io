@@ -6,6 +6,7 @@ layout: post
 ## Flight
 
 Flight details: 
+
 - All Nippon Airway
 - Depart 11am from ORD
 - Arrive 12:30pm at NRT
@@ -41,4 +42,4 @@ After the food we stopped by the local Family Mart before heading home. Family M
 
 ## 明日 (tomorrow)
 
-Tomorrow it's unpacking, getting settled, figuring out food stuff, finding my way around the town, finding my way around the robo-toilet in my apartment... But for now it's sleep. 
+Tomorrow it's unpacking, getting settled, figuring out food stuff, finding my way around the town, finding my way around the robo-toilet in my apartment... But for now it's sleep.
