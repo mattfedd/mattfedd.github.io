@@ -9,7 +9,7 @@ Flight details:
 
 - All Nippon Airway
 - Depart 11am from ORD
-- Arrive 12:30pm at NRT
+- Arrive 12 hours later at NRT
 - Sleep, eat, watch movies
 
 I left campus way early because I was afraid of the supposedly long TSA lines at the airport. I was so early to O'Hare that the ANA check in counter wasn't even open. They opened at 7:45am, I arrived at 6am, and that was after a 3 hour bus ride from Champaign. You do the math. 
