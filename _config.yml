@@ -4,8 +4,8 @@ markdown: kramdown
 highlighter: rouge
 url: http://mattfedd.github.io
 title: mattfedd
-tagline: A log of everyday life
-description: Travels, food, books, music, and other shenanigans
+tagline: Home
+description: Travel notes, research updates, and other shenanigans
 paginate: 3
 paginate_path: "/blog/page:num/"
 version: "1.0.0"
