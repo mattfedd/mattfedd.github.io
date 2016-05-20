@@ -26,7 +26,7 @@ There's a 14 hour time shift between Chicago and Tokyo. So if it's noon in Chica
 
 All of the interns (all 3 of us) are staying at the company apartment complex, located about 15 minutes walking distance away from the main company building. We're in Matsudo, in the Chiba prefecture; we took the train from Narita airport to the Higashimatsudo station (that's "East Matsudo" for the English speakers) then a taxi to the company apts. It's very quaint, very nice, I like it so far. 
 
-Some of the more interesting features need a bit of investigation though. Like the robo-toilet. It has a [little notice on the wall detailing some of the important bits in English](https://farm8.staticflickr.com/7371/26854796200_a843b9550a_c.jpg). Like how to use the bidet portion, or how to choose water pressure or seat temperature. Very cool nonetheless.
+Some of the more interesting features need a bit of investigation though. Like the robo-toilet. It has a [little notice on the wall detailing some of the important bits in English](https://farm8.staticflickr.com/7371/26854796200_a843b9550a_c.jpg). Like how to use the bidet portion, or how to choose water pressure or bidet direction. And the seat is heated! That's going to take some getting used to.
 
 There's a small kitchenette, a washer/dryer, a bath/shower, a toilet, and a bedroom. All the essentials. Also there's a common area in the apartment complex with an N64, ping pong, SEGA Genesis, and all sorts of other things. Time to get good at Super Smash Bros again. 
 
