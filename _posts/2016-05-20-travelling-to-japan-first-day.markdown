@@ -28,7 +28,7 @@ All of the interns (all 3 of us) are staying at the company apartment complex, l
 
 Some of the more interesting features need a bit of investigation though. Like the robo-toilet. It has a [little notice on the wall detailing some of the important bits in English](https://farm8.staticflickr.com/7371/26854796200_a843b9550a_c.jpg). Like how to use the bidet portion, or how to choose water pressure or seat temperature. Very cool nonetheless.
 
-There's a small kitchenette, a washer/dryer, a bath/shower, a toilet, and a bedroom. All the essentials. Also there's a common area in the apartment complex with an N64, ping pong, SEGA Genesis, and all sorts of other things. Time to get good at old school Smash Bros again. 
+There's a small kitchenette, a washer/dryer, a bath/shower, a toilet, and a bedroom. All the essentials. Also there's a common area in the apartment complex with an N64, ping pong, SEGA Genesis, and all sorts of other things. Time to get good at Super Smash Bros again. 
 
 ## Food
 
