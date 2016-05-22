@@ -19,4 +19,6 @@ Otherwise here's some pictures from around town:
 
 <a href="https://farm8.staticflickr.com/7747/27098350011_13099c8d31_z.jpg"><img src="https://farm8.staticflickr.com/7747/27098350011_13099c8d31_z.jpg" style="width: 500px;"/></a> A very quaint and quiet downtown shopping area. 
 
-<a href="https://farm8.staticflickr.com/7030/27098348101_945a7cdc29_z.jpg.jpg"><img src="https://farm8.staticflickr.com/7030/27098348101_945a7cdc29_z.jpg" style="width: 500px;"/></a> Just walking down the street. Cars drive on the right side of the road, which is a little unusual. Otherwise traffic works pretty much the same. All the signs are in Japanese, of course, so I'm not going to be driving any time soon :)
+<a href="https://farm8.staticflickr.com/7030/27098348101_945a7cdc29_z.jpg.jpg"><img src="https://farm8.staticflickr.com/7030/27098348101_945a7cdc29_z.jpg" style="width: 500px;"/></a> Just walking down the street. Cars drive on the right side of the road, which is a little unusual. Otherwise traffic works pretty much the same. All the signs are in Japanese, of course, except for some strange exceptions. For instance, the supermarket I live next to is called Belx, written in English as well as katakana. No idea what it means. 
+
+Tomorrow is the first day of work! Not sure what to expect, but I have high hopes.
