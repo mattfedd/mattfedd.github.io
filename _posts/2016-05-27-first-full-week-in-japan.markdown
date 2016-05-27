@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: First Full Week in Japan
 layout: post
 ---
@@ -35,5 +35,3 @@ Unlike a lot of names I've seen, my supervisor's name is spelled with easy kanji
 In the morning when people greet each other, they say _ohayou gozayimasu_, except conversationally this just becomes _hyogozaimaaaaas_. They really sit on that last syllable and drag it out. Similarly in the afternoon/evening, as people leave work they say good-bye with _otsukaresama desu_. This doesn't really shorten when spoken, it's just _otsukaresamadeeeeees_. It means literally "Thank you for your hard work", which kind of highlights the attitude of respect that permeates the culture here. 
 
 I've learned some vital phrases and grammar already. "How do I say ____ in Japanese" is useful (＿＿＿日本語で何と言う), same with "I've never eaten that before" (それを食べたことない). Or "This weekend I'd like to go to Tokyo"(今週末東京に行きたい). [Because that's what's happening this weekend](http://www.gotokyo.org/en/index.html). That's where all the pictures will be :)
-
-
