@@ -19,7 +19,7 @@ I learned how to operate various equipment for testing the motors. My job right 
 
 ## Food
 
-The lady in charge of the apartment complex where I live is a nice old Japanese lady. She gave me a rice cooker earlier this week, which was very nice of her and prompted me to go to the store and buy a 5kg bag of rice. By the way, rice in Japanese is 御飯　(_gohan_), and rice cooker is 炊飯器 (_suihanki_). Related because of the _han_ part. 
+The lady in charge of the apartment complex where I live is a nice old Japanese grandma. She gave me a rice cooker earlier this week, which was very nice of her and prompted me to go to the store and buy a 5kg bag of rice. By the way, rice in Japanese is 御飯　(_gohan_), and rice cooker is 炊飯器 (_suihanki_). Related because of the _han_ part. 
 
 We went to a 焼肉 (_yakiniku_) restaurant Monday night, to celebrate our first day on the job. _Yakiniku_ is Japanese barbeque, and consists of coals in the middle of the table where you can cook the thin slices of meat on your own. We ordered some chicken, some beef, some beef tongue, some Korean bibimbap, and some soup. All of it was delicious. 
 
