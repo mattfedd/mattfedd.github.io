@@ -23,11 +23,17 @@ The lady in charge of the apartment complex where I live is a nice old Japanese 
 
 We went to a 焼肉 (_yakiniku_) restaurant Monday night, to celebrate our first day on the job. _Yakiniku_ is Japanese barbeque, and consists of coals in the middle of the table where you can cook the thin slices of meat on your own. We ordered some chicken, some beef, some beef tongue, some Korean bibimbap, and some soup. All of it was delicious. 
 
-Thursday night we ate 回転寿司 (_kaiten zushi_), or "conveyor belt sushi". (I asked if it's pronounced _sushi_ or _zushi_. Everyone I ask says it doesn't matter, but the dictionary says zushi. I'll still say sushi, personally). In this restaurant, sushi comes out on a conveyor belt and you can pick up plates that you want to eat. Each plate is 100 JPY, which is pretty much a dollar, and comes with 1-4 pieces of sushi depending on what type it is. You can order something specific with a touch screen on the table and it will arrive on a separate conveyor belt just for you. At the end all of the plates are counted up for your bill. Like all the food I've had so far, this was also absolutely delicious. 
+<a href="https://farm8.staticflickr.com/7507/27199890292_f91b8a0f6b_z.jpg"><img src="https://farm8.staticflickr.com/7507/27199890292_f91b8a0f6b_z.jpg" style="width: 400px;"/></a>
+
+Thursday night we ate 回転寿司 (_kaiten zushi_), or "conveyor belt sushi". (I asked if it's pronounced _sushi_ or _zushi_. Everyone I ask says it doesn't matter, but the dictionary says zushi. I'll still say sushi, personally). In this restaurant, sushi comes out on a conveyor belt and you can pick up plates that you want to eat. Each plate is 100 JPY, which is pretty much a dollar, and comes with 1-4 pieces of sushi depending on what type it is. You can order something specific with a touch screen on the table and it will arrive on a separate conveyor belt just for you. At the end all of the plates are counted up for your bill. Like all the food I've had so far, this was also absolutely delicious. [Here's a Youtube video of kaiten sushi at the same restaurant chain that we went to - Kura Sushi.](https://www.youtube.com/watch?v=3hOpP3brwtY)
+
+<a href="https://farm8.staticflickr.com/7305/27199891742_1e70e171d5_z.jpg"><img src="https://farm8.staticflickr.com/7305/27199891742_1e70e171d5_z.jpg" style="width: 400px;"/></a>
 
 At work there's a cafeteria with ridiculously low prices. Each lunch that I've had has been substantial, with a main dish, a soup, a salad, and rice. And it's never been more than 450 JPY. Usually it's below 400. This substantially helps my budget, which used to be 1000 yen per meal each day. 
 
 I've been cooking my own breakfasts and dinners otherwise. With the rice cooker this becomes vegetables and meat since the rice handles itself. My most recent endeavor was _torikatsu_ or breaded fried chicken breast. Like [this](https://cs.wikipedia.org/wiki/%C5%98%C3%ADzek). I got some lemon and some generic nutmeggy meat sauce from the store, and altogether it tasted great with some rice. 
+
+<a href="https://farm8.staticflickr.com/7491/27226837821_dab86edfe9_z.jpg"><img src="https://farm8.staticflickr.com/7491/27226837821_dab86edfe9_z.jpg" style="width: 400px;"/></a>
 
 ## Language corner
 Unlike a lot of names I've seen, my supervisor's name is spelled with easy kanji. It has the kanji for corner, 角, pronounced _kado_, and the kanji for mouth, 口, pronounced _kuchi_. Put them together (and add the necessary [consonant softening](https://en.wikipedia.org/wiki/Rendaku)) and you get 角口, _Kadoguchi_. Some of the names can get downright confusing, using strange kanji or unusual readings, so it's refreshing to see common and easy kanji in a name. 
