@@ -3,7 +3,6 @@ published: true
 title: More Food 
 layout: post
 ---
-
 # Noodles
 
 On Monday a group of new hires had just returned from company training, and that evening we went to an _udon_ noodle restaurant to meet an HR employee who had arrived with that group. She's quite unusual at Mabuchi, considering she grew up in Minnesota. In college she majored in international relations while learning Japanese, and now she works at Mabuchi in the human resources department. She speaks excellent Japanese, and has been encouraging us to learn some of the language while we're here. She even gave each of us interns a copy of [this textbook](http://www.amazon.com/GENKI-Integrated-Elementary-Japanese-English/dp/4789014401) for us to keep, which was very thoughtful of her. It's useful to have her as a resource, too, since she understands the grammar points, the difficult parts of the language and what it's like to learn it as a non-native. 
@@ -34,7 +33,7 @@ I also tried _nihonshu_ for the first time after the _sashimi_. In Japanese, _sa
 # Mochi
 I've been binging on _mochi_ from the supermarket recently. _Mochi_ is a candy that's made by [pounding rice](https://www.youtube.com/watch?v=4p1mATFMlg4) until it becomes a gooey paste. It's readily available in the sweets section of the supermarket, so I buy some every time I go shopping. 
 
-It's been hit or miss. The first _mochi_ that I bought here looked green, so I thought it was green tea or matcha flavored. Instead it was a salted soybean flavoring. Not the best thing in the world, but stil edible.
+It's been hit or miss. The first _mochi_ that I bought here looked green, so I thought it was green tea or matcha flavored. Instead it was a salted soybean flavoring. Not the best thing in the world, but still edible.
 
 I got a variety pack after that, pictured below. This one also had a green mochi which also wasn't green tea flavored. Instead it had some fig filling, which still tasted great. I'm still on the hunt for green tea mochi. 
 
@@ -44,4 +43,3 @@ I don't know what the other flavors are (haven't tried them yet) but I think the
 
 # Tokyo
 I went to Tokyo last weekend for a short walk around, and I'm going today as well. I'll put all the pictures from those visits in a new blog post later this weekend.
-
