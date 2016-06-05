@@ -43,7 +43,7 @@ And now for the pictures!
   <tr><td><img src="https://farm8.staticflickr.com/7763/26845784373_f70abc1809_z.jpg" style="width:400px"/></td><td><img src="https://farm8.staticflickr.com/7394/26845785943_a90ff19b0a_z.jpg" style="width:400px"/></td></tr>
   <tr><td>A building in Asakusa<br /></td><td>Another view of the inner gate in Asakusa</td></tr>
   <tr><td><img src="https://farm8.staticflickr.com/7447/27381441901_b48afc0b9b_z.jpg" style="width:400px"/></td><td><img src="https://farm8.staticflickr.com/7139/26845789343_dd9c432dcc_z.jpg" style="width:400px"/></td></tr>
-  <tr><td>A beeramid at the World Beer Museum in Tokyo Skytree<br /></td><td>A view of the Sytree from below</td></tr>
+  <tr><td>A beeramid at the World Beer Museum in Tokyo Skytree<br /></td><td>A view of the Skytree from below</td></tr>
   <tr><td colspan="2"><img src="https://farm8.staticflickr.com/7054/27381442781_6566faf01d_h.jpg" style="width:800px"/></td></tr>
   <tr><td colspan="2">A view of the Sumida skyline. The golden thing there is supposed to be the foam from a poured beer. Doesn't quite look like it.</td></tr>
   <tr><td colspan="2"><img src="https://farm8.staticflickr.com/7702/27419177456_5d8d720ca8_c.jpg" style="width:800px"/></td></tr>
