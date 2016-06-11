@@ -25,7 +25,7 @@ Next Wednesday I'm going to help one of the HR employees with an English convers
 
 A real high class sushi bar would not be this cheap, but even this common-grade sushi in Japan is better than most every sushi I've had in the US. It's all _oishii_ (delicious), as the Japanese say. 
 
-A quick note on the words for "delicious". The common word is 美味しい, pronounced おいしい/oishii. A less formal word is _umai_, which sometimes gets shorted to _umehhhhh_. Regardless, it's still spelled with the same characters, just a tiny bit different: 美味い. So if you see those characters in writing, you have to be able to differentiate between the two pronunciations.
+A quick note on the words for "delicious". The common word is 美味しい, pronounced おいしい/_oishii_. A less formal word is うまい/_umai_, which in casual conversation sometimes becomes _umehhhhh_. Regardless, it's still spelled with the same characters, just a tiny bit different: 美味い. So if you see those characters in writing, you have to be able to differentiate between the two pronunciations.
 
 While I'm talking about languages, there's one more phrase I learned this week. おさきにしつれいします, or _osakinishitsureishimasu_. It's something that you say when you're leaving work early, and acknowledges that you're leaving while other people are still working. It took me about a day of practicing to get it fluent. Regardless, I haven't had the opportunity to say it, since I never leave early. I just say _otsukuresamadesu_, which is what you're supposed to say at the end of the day while leaving work. 
 
@@ -35,5 +35,4 @@ While I'm talking about languages, there's one more phrase I learned this week. 
 
   <a href="https://farm8.staticflickr.com/7437/27597636075_ae97ce7cb9_z.jpg"><img src="https://farm8.staticflickr.com/7437/27597636075_ae97ce7cb9_z.jpg" style="width:400px"></a>
 
-  Agar Mochi. This isn't strictly a mochi, since the base is agar gelatin instead of rice. But it's still shaped like a mochi with red bean paste on the inside. 
-  
+  Agar Mochi. This isn't strictly a mochi, since the base is agar gelatin instead of rice. But it's still shaped like a mochi with red bean paste on the inside.
