@@ -1,6 +1,6 @@
 ---
 published: true
-title: Week 3: Mundane Rain
+title: Week 3, Mundane Rain
 layout: post
 ---
 Nothing too crazy happened this week. There was a lot of rain, though, and it's gotten a bit more humid. I didn't go to Tokyo this weekend, instead opting for a quiet few days inside. The next few weekends are going to be filled with Japan adventures, so don't worry. Lots of stuff in the works.
