@@ -1,6 +1,6 @@
 ---
 published: true
-title: Japanese Cultural Observations #1
+title: Japanese Cultural Observations - 1
 layout: post
 ---
 Some quick notes on cultural things that I've been noticing here and there. More to come
@@ -27,4 +27,4 @@ _Jouzu_ means "skilled". It's the most common feedback I've gotten on my Japanes
 
 There's something special about the Japanese sense of time when planning events. There has to be ample room to comfortably figure out event details, you can't come up with plans the day of. Shopping? Sure. This afternoon? Whoa, too soon. I'll be busy watching TV. I went out for dinner with some coworkers during my third week here, but we planned it two weeks prior. "Oh, this Friday? Hmmm....mmmm.... How about in two weeks?"
 
-I think [this video](https://www.youtube.com/watch?v=DVhQUuM1300) does a good job of highlighting some of the absurdness that comes with this planning mindset: "Are you free the morning of October 12, 2019? I'm having a barbeque then." --"Ah, let me check my schedule...... oh no, sorry, dentist appointment". During my first day on the job, something similar happened where I received an email from a coworker inviting me to an event. The event was in July and he asked are you free then, sorry to fill up your schedule, please let me know if you can make it, etc. I found it hilarious, because I had barely planned my activities for the coming weekend, let alone 7 weeks down the road. 
+I think [this video](https://www.youtube.com/watch?v=DVhQUuM1300) does a good job of highlighting some of the absurdness that comes with this planning mindset: "Are you free the morning of October 12, 2019? I'm having a barbeque then." --"Ah, let me check my schedule...... oh no, sorry, dentist appointment". During my first day on the job, something similar happened where I received an email from a coworker inviting me to an event. The event was in July and he asked are you free then, sorry to fill up your schedule, please let me know if you can make it, etc. I found it hilarious, because I had barely planned my activities for the coming weekend, let alone 7 weeks down the road.
