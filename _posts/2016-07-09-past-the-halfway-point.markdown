@@ -23,7 +23,7 @@ Now let's hope that I have enough time to write about all those things afterward
 
 ## Hondo-ji
 
-A few weeks ago I visited _Hondo-ji_, which is a temple in the nearby city Matsudo. It's nickname is _ajisaidera_, which means "hydrangea temple", referencing the ridiculous amount of hydrangeas that grow there during the summer. 
+A few weeks ago I visited _Hondo-ji_, which is a temple in the nearby city Matsudo. Its nickname is _ajisaidera_, which means "hydrangea temple", referencing the ridiculous amount of hydrangeas that grow there during the summer. 
 
 It was a nice departure from the busy city life of Tokyo. 
 
@@ -51,4 +51,3 @@ The next day, I headed to the south side of Chiba prefecture for an seaside BBQ 
 <img src="https://scontent.xx.fbcdn.net/v/t1.0-9/13606600_1191962574167805_3885416976405831576_n.jpg?oh=d2305731906f067a60c0e9cb38d380cb&oe=58353430" style="width:600px"/>
 
 <img src="https://scontent.xx.fbcdn.net/v/t34.0-12/13608263_1042081212536309_241454039_n.jpg?oh=160702593189ae5a8660cd3455f6204c&oe=57830731" style="width:600px"/>
-
