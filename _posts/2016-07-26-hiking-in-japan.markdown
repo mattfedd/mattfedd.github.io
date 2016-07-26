@@ -11,7 +11,7 @@ So the past two weekends I went hiking on two Japanese mountains -- Mt Tsukuba a
 
 Anyway, at the beginning of the internship all three of us interns decided that we wanted to hike up Mt Fuji before the summer was over. We even managed to convince a few of our coworkers to come with us (probably because 1) there's some strong Japanese pride in being able to climb Fujisan, and none of these coworkers had done it, and 2) because we were clearly simple foreigners who would probably die on the mountain without their help). One of my friends in the office, Satoshi, recommended that we try a smaller hike first to make sure we knew what we were getting into. Thus began our journey to Tsukuba.
 
-## Tsukuba 
+# Tsukuba 
 
 We had settled on July 23 for Fujisan, but Satoshi was feeling a little apprehensive about his/our hiking abilities. So on Friday the 15th he told us that he would pick us up the following morning at 7am for a practice hike. Sometimes Japanese people are really slow about planning events, and they love having ample time to set their schedule. This wasn't like that. We had no idea where we would be hiking or for how long, and we had one day's notice. We didn't have any other plans so it worked out just fine.
 
@@ -21,7 +21,7 @@ Satoshi picked us up along with his friend Emi, who was in my department and had
 
 It was cloudy, warm, and humid on Mt Tsukuba. As a result, everybody got drenched with sweat in the first 30 minutes, and we never really dried out. Without the weather, the hiking was nice and reasonable especially since most of it was in a forest with plenty of rocks, roots, and other easy footholds. The weather definitely made the experience more difficult, but still doable. Since this mountain hike seemed reasonable, Fujisan was still a go for July 23. 
 
-## Fuji
+# Fuji
 
 Mt Fuji has 4 paths that all lead to the top. The most popular is called the Yoshida trail, due to it's moderate slope and frequent rest stations. The rest stations are also known as mountain huts, and are numbered 5-9 as you go up the mountain. After station 9, the you're basically at the summit. There are some stations at lower elevations, but the most common hike is to start from station 5 at 2000m elevation and then go up.
 
@@ -45,7 +45,7 @@ Mt Fuji has 4 paths that all lead to the top. The most popular is called the Yos
 
 <a href="https://farm9.staticflickr.com/8813/27946210393_02cb7f03cc_z.jpg"><img src="https://farm9.staticflickr.com/8813/27946210393_02cb7f03cc_z.jpg" style="width:400px"></a>
 
-**Station 8-8.5:** Haha yeah there's a station numbered 8.5, whoops. I kind of lost count of these stations while hiking, but it felt like were a looooot of rest stations between 7 and 9 even though the map only showed stations 8 and 8.5. At each station there were folks napping in the huts, and they were just starting to hike as we arrived. Often we would keep hiking without much rest just so that we weren't caught in a big slow group. The trail was a bit more crowded from here on, and was more like the zig-zagging gravel trail from before. But this time the gravel was replaced with loose shale, which made the hiking quite a bit harder.
+**Station 8-8.5:** Ahh yes there's a station numbered 8.5, whoops. I kind of lost count of these stations while hiking, but it felt like there were a looooot of rest stations between 7 and 9 even though the map only showed stations 8 and 8.5. At each station there were folks napping in the huts, and they were just starting to hike as we arrived. Sometimes we would keep hiking without much rest just so that we weren't caught in a big slow group. The trail was a bit more crowded from here on, and was more like the zig-zagging gravel trail from before. But this time the gravel was replaced with loose shale, which made the hiking quite a bit harder.
 
 **Station 8.5:** We had a really long rest here. It was maybe 11:30pm when we arrived, and I don't think we started hiking again until 1am. We knew we would have to wait a while anyway because we were ahead of schedule, and it was better to wait at a lower elevation where it's warmer. 
 
@@ -90,4 +90,3 @@ And that's Fujisan in a nutshell. More pictures below:
 <a href="https://farm9.staticflickr.com/8712/27946216243_ca1b32df6a_c.jpg"><img src="https://farm9.staticflickr.com/8712/27946216243_ca1b32df6a_c.jpg" style="width:700px"></a>
 
 <a href="https://farm9.staticflickr.com/8761/28561677825_2a9b1a5c80_h.jpg"><img src="https://farm9.staticflickr.com/8761/28561677825_2a9b1a5c80_h.jpg" style="width:700px"></a>
-
