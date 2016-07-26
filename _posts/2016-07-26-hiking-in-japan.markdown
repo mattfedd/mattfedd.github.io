@@ -75,13 +75,13 @@ The way down was much quicker, even though we kept stopping for one really slow 
 
 Overall I'd say that it was a good experience, but to do it again I would need three things to happen.
 
-  **1. Not on a Saturday night** - Everyone climbs on Saturday night. All the tourists and all the Japanese. During the week most people are at work, so everything is way less crowded.  
+  **1. Not on a Saturday night** - Everyone climbs on Saturday night. All the tourists and all the Japanese. During the week lots of people are at work, so everything is a bit less crowded.  
 
   **2. Better cold-weather clothes** -  I had two cotton sweaters and jeans. Most Japanese hikers on Fujisan wore thermal athletic undershirts, gloves, and nice jackets. I was quite cold at the top. They probably weren't.  
 
-  **3. Better backpack** - At the beginning my backpack was outrageously heavy, mostly because of the sheer amount of water that I brought. (It was all necessary though. I started with about 4L of water and 1L of coffee and by the end of the trip I had 0.5L of coffee left over.) Even though that got progressively lighter throughout the hike as I kept drinking, it still hurt my shoulders after 10  hours of use. And I think that's because I didn't have any waist/chest straps on my backpack, so I didn't have anything to offload the weight from my shoulders. So next time I want a backpack with waist straps.
+  **3. Better backpack** - At the beginning my backpack was outrageously heavy, mostly because of the sheer amount of water that I brought. (It was all necessary though. I started with about 4L of water and 1L of coffee and by the end of the trip all I had was 0.5L of coffee left over.) Even though that got progressively lighter throughout the hike as I kept drinking, it still hurt my shoulders after 10  hours of use. And I think that's because I didn't have any waist/chest straps on my backpack, so I didn't have anything to offload the weight from my shoulders. So next time I want a backpack with waist straps.
 
-And that's Fujisan in a nutshell. More pictures below:
+And that's Fujisan in a nutshell. More pictures below (I didn't take most of these, by the way. These were shared from all the people in our group):
 
 <a href="https://farm9.staticflickr.com/8535/27946211423_b6eb3f687e_c.jpg"><img src="https://farm9.staticflickr.com/8535/27946211423_b6eb3f687e_c.jpg" style="width:700px"></a>
 
