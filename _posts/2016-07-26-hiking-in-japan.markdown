@@ -61,13 +61,17 @@ The sun was supposed to rise at 4:38, and until then the sky was busy turning br
 
 <a href="https://farm9.staticflickr.com/8829/28561678815_fcfd290171_h.jpg"><img src="https://farm9.staticflickr.com/8829/28561678815_fcfd290171_h.jpg" style="width:700px"></a>
 
-There are maybe 3 or 4 restaurants at the top of the mountain, and 2 vending machines. The vending machines are about 4 times more expensive than anything at ground level, and the restaurants are about twice as expensive as normal food. We went into one of the restaurants and ordered some 900JPY vegetable soup, and some of us took a quick morning nap. 
+There are maybe 3 or 4 restaurants and 2 vending machines at the top of the mountain. The vending machines are about 4 times more expensive than anything at ground level, and the restaurants are about twice as expensive as normal food. We went into one of the restaurants and ordered some 900JPY vegetable soup, and some of us took a quick morning nap. 
 
 <a href="https://farm8.staticflickr.com/7466/28277915730_4dc9c570de_c.jpg"><img src="https://farm8.staticflickr.com/7466/28277915730_4dc9c570de_c.jpg" style="width:700px"></a>
 
 Then we went for a quick walk on the summit. We didn't go all the way around the rim, we were way too tired for that. We just looked around and took a few pictures. It was all downhill after that. 
 
+<a href="https://farm9.staticflickr.com/8301/27946214563_ed09353c8d_c.jpg"><img src="https://farm9.staticflickr.com/8301/27946214563_ed09353c8d_c.jpg" style="width:700px"></a>
+
 The way down was much quicker, even though we kept stopping for one really slow person in our group. We took a different and steeper path down, made easier by the loose gravel and dirt that allowed us to kind of slide/ski a little bit with each step. I'd estimate that we started hiking down around 6am and we arrived back at station 5 (the very beginning) a little after 10. 
+
+<a href="https://farm9.staticflickr.com/8104/27946217053_93d443e334_c.jpg"><img src="https://farm9.staticflickr.com/8104/27946217053_93d443e334_c.jpg" style="width:700px"></a>
 
 Overall I'd say that it was a good experience, but to do it again I would need three things to happen.
 
@@ -79,15 +83,10 @@ Overall I'd say that it was a good experience, but to do it again I would need t
 
 And that's Fujisan in a nutshell. More pictures below:
 
-
-
-<a href="https://farm9.staticflickr.com/8301/27946214563_ed09353c8d_c.jpg"><img src="https://farm9.staticflickr.com/8301/27946214563_ed09353c8d_c.jpg" style="width:700px"></a>
-
 <a href="https://farm9.staticflickr.com/8535/27946211423_b6eb3f687e_c.jpg"><img src="https://farm9.staticflickr.com/8535/27946211423_b6eb3f687e_c.jpg" style="width:700px"></a>
 
 <a href="https://farm9.staticflickr.com/8655/27946211923_b751a60eaa_c.jpg"><img src="https://farm9.staticflickr.com/8655/27946211923_b751a60eaa_c.jpg" style="width:700px"></a>
 
-<a href="https://farm9.staticflickr.com/8104/27946217053_93d443e334_c.jpg"><img src="https://farm9.staticflickr.com/8104/27946217053_93d443e334_c.jpg" style="width:700px"></a>
 
 <a href="https://farm9.staticflickr.com/8712/27946216243_ca1b32df6a_c.jpg"><img src="https://farm9.staticflickr.com/8712/27946216243_ca1b32df6a_c.jpg" style="width:700px"></a>
 
