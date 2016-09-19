@@ -1,5 +1,4 @@
 excerpt_separator: ""
-gems: [jekyll-paginate]
 pygments: true
 markdown: kramdown
 highlighter: rouge
@@ -8,5 +7,5 @@ title: mattfedd
 tagline: Home
 description: Travel notes, research updates, and other shenanigans
 paginate: 5
-paginate_path: /blog/page:num/
+paginate_path: "/blog/page:num/"
 version: "1.0.0"
