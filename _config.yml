@@ -3,7 +3,6 @@ title: mattfedd
 tagline: Personal page
 url: https://mattfedd.github.io
 paginate: 1
-baseurl: 'https://mattfedd.github.io'
 permalink: pretty
 paginate_path: 'blog/page:num/'
 
