@@ -2,6 +2,7 @@
 published: true
 title: Travelling to Japan + First Day
 layout: post
+tags: japan
 ---
 ## Flight
 

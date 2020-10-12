@@ -1,11 +1,42 @@
-excerpt_separator: ""
-pygments: true
-markdown: kramdown
-highlighter: rouge
-url: http://mattfedd.github.io
+# Setup
 title: mattfedd
-tagline: Home
-description: Travel notes, research updates, and other shenanigans
-paginate: 5
-paginate_path: "/blog/page:num/"
-version: "1.0.0"
+tagline: Personal page
+url: https://mattfedd.github.io
+paginate: 1
+baseurl: 'https://mattfedd.github.io/'
+permalink: pretty
+paginate_path: 'blog/page:num/'
+
+# Gems
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+# Optimize Jekyll
+exclude:
+  - .editorconfig
+  - .git
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+# Options
+
+# Replace this value and uncomment to enable Google Analytics tracking
+# ga_analytics: UA-000000-0
+
+# Specify the author for blog posts
+author:
+  name: Matthew Feddersen
+  url: https://twitter.com/mdo
+  email: mattfedd@comcast.net
+
+# Custom vars
+version: 3.0.0
